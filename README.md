@@ -12,11 +12,15 @@ a) Sua saída deverá ser parecida com a mostrada abaixo:
 
 Informe un numero de 0 a 10: 7
 Errou! Tente um número menor.
+
 Informe um número de 0 a 10: 5
 Errou! Tente um número menor.
+
 Informe um número de 0 a 10: 4
 Erro! Tente um número menor.
+
 Informe um número de 0 a 10: 2
 Erro! Tente um número menor.
+
 Informe um número de 0 a 10: 1
 Parabéns! Você aertou em 5 tentativas.
