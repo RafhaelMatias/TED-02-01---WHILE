@@ -23,4 +23,4 @@ Informe um número de 0 a 10: 2
 Erro! Tente um número menor.
 
 Informe um número de 0 a 10: 1
-Parabéns! Você aertou em 5 tentativas.
+Parabéns! Você acertou em 5 tentativas.
